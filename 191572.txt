@@ -1,0 +1,32 @@
+1. /
+2. /
+3. /
+4. git init -b master
+5. git remote add origin https://github.com/Lukamaster/SI_2023_lab1_191572.git
+6. git add README.md, git commit -m "First commit"
+7. git add SILab1.java -m "Add java class"
+8. git push origin master
+9. git checkout -b bug1, git checkout -b bug2, git checkout -b bug3
+10. git checkout bug1
+11. git commit -m "Fix wrong loop for reading"
+12. git checkout bug2
+13. git commit -m "Fix wrong condition in filterOddNumbers"
+14. git checkout bug3
+15. git commit -m "Fix method sumEvenNumbers"
+16. git push origin master
+17. git checkout master
+18. git merge bug1
+19. git push origin master
+20. git merge bug2
+21. git push origin master
+22. git checkout bug3
+23. git rebase master
+24. git checkout master
+25. git merge bug3
+26. git push origin master --force
+27. git --no-pager log > logs.txt
+28. git commit -m "Final Commit"
+
+
+
+

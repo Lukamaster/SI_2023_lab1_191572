@@ -1,0 +1,56 @@
+commit b40e7a1e86ae034de3e9ea14c596fd4b373eb016
+Merge: edc4eb4 68881b6
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 20:57:51 2023 +0100
+
+    Merge branch 'bug2
+
+commit edc4eb485fdcba5d731372cee0cf14976d6a8ef6
+Merge: 61c3537 3e68e3b
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 20:54:42 2023 +0100
+
+    Merge branch 'bug2
+
+commit 68881b67f1f87041af73e79133aa38df0d1684ae
+Merge: 3871124 b55ef2f
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 20:21:40 2023 +0100
+
+    Merge branch 'master' of https://github.com/Lukamaster/SI_2023_lab1_191572 into bug3
+
+commit 387112406c13a27b1d2b435aa0530b49fc7feb0a
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 20:18:10 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 3e68e3bced7326a568db579ba2d4ace42b74cc7a
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 20:16:49 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 61c35374c0126087ec28670685fdd436d307689d
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 20:14:55 2023 +0100
+
+    Fix wrong loop for reading
+
+commit b55ef2fe848860dc6136bb05bdf792a8adf64247
+Author: Luka Cheshlarov <37224550+Lukamaster@users.noreply.github.com>
+Date:   Wed Mar 15 19:41:38 2023 +0100
+
+    Update README.md
+
+commit a1d0adf7bf802a5462220332865de3f8ca3ab02b
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 19:37:58 2023 +0100
+
+    Add java class
+
+commit 0af9e2001535f4ee6935c74018be4f5ba84671f2
+Author: Luka Cheshlarov <luka.ceslarov@gmail.com>
+Date:   Wed Mar 15 19:14:52 2023 +0100
+
+    First commit
